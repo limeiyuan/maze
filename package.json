@@ -1,0 +1,21 @@
+{
+    "name": "game-resources-manager",
+    "version": "1.0.0",
+    "description": "A cross-platform desktop tool to manage game assets like images, sounds, and fonts.",
+    "main": "frontend/main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "keywords": [
+        "electron",
+        "game-assets",
+        "resource-manager",
+        "spritesheet"
+    ],
+    "author": "Willian Li",
+    "license": "MIT",
+    "devDependencies": {
+        "electron": "^28.0.0",
+        "electron-reload": "^2.0.0-alpha.1"
+    }
+}
